@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, rgb(255, 64, 0),yellow,  rgb(0, 245, 4));
+}
+
+.col-form-label {
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+li{
+    list-style:circle;
+    font-size: 1.1em;
+}
+i{
+    color: deepskyblue;
+}
